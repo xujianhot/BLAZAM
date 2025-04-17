@@ -379,10 +379,10 @@
     <value>删除访问级别</value>
   </data>
   <data name="Delgate Name" xml:space="preserve">
-    <value>德尔盖特名称</value>
+    <value>委派名称</value>
   </data>
   <data name="Deny" xml:space="preserve">
-    <value>否认</value>
+    <value>禁止</value>
   </data>
   <data name="Department" xml:space="preserve">
     <value>部门</value>
@@ -496,7 +496,7 @@
     <value>组</value>
   </data>
   <data name="Home" xml:space="preserve">
-    <value>家</value>
+    <value>首页</value>
   </data>
   <data name="Home Directory" xml:space="preserve">
     <value>主目录</value>
@@ -562,7 +562,7 @@
     <value>登录</value>
   </data>
   <data name="Logs" xml:space="preserve">
-    <value>原木</value>
+    <value>日志</value>
   </data>
   <data name="Main" xml:space="preserve">
     <value>主要</value>
@@ -580,7 +580,7 @@
     <value>成员</value>
   </data>
   <data name="Memory" xml:space="preserve">
-    <value>记忆</value>
+    <value>内存</value>
   </data>
   <data name="Middle Initial" xml:space="preserve">
     <value>中间首字母</value>
@@ -631,7 +631,7 @@
     <value>在线</value>
   </data>
   <data name="Oops" xml:space="preserve">
-    <value>哎呀</value>
+    <value>Oops</value>
   </data>
   <data name="Operating System" xml:space="preserve">
     <value>操作系统</value>
@@ -649,7 +649,7 @@
     <value>OU</value>
   </data>
   <data name="Pass Change" xml:space="preserve">
-    <value>通行证变更</value>
+    <value>密码变更</value>
   </data>
   <data name="Password" xml:space="preserve">
     <value>密码</value>
@@ -664,7 +664,7 @@
     <value>邮政信箱</value>
   </data>
   <data name="Port" xml:space="preserve">
-    <value>港口</value>
+    <value>端口</value>
   </data>
   <data name="Preferences" xml:space="preserve">
     <value>偏好</value>
@@ -748,7 +748,7 @@
     <value>回复显示名称</value>
   </data>
   <data name="Require change" xml:space="preserve">
-    <value>需要更改</value>
+    <value>下次登录修改密码</value>
   </data>
   <data name="Require the user to change their password at next logon" xml:space="preserve">
     <value>要求用户在下次登录时更改其密码</value>
@@ -781,7 +781,7 @@
     <value>运行</value>
   </data>
   <data name="Save" xml:space="preserve">
-    <value>救</value>
+    <value>保存</value>
   </data>
   <data name="Save Changes" xml:space="preserve">
     <value>保存更改</value>
@@ -826,7 +826,7 @@
     <value>SMTP 服务器</value>
   </data>
   <data name="SMTP Username" xml:space="preserve">
-    <value>短信用户名</value>
+    <value>SMTP用户名</value>
   </data>
   <data name="SSL Certificate" xml:space="preserve">
     <value>SSL证书</value>
@@ -835,7 +835,7 @@
     <value>开始时间</value>
   </data>
   <data name="State" xml:space="preserve">
-    <value>州</value>
+    <value>省</value>
   </data>
   <data name="Stop It" xml:space="preserve">
     <value>停下</value>
@@ -970,7 +970,7 @@
     <value>应用程序登录</value>
   </data>
   <data name="Block" xml:space="preserve">
-    <value>块</value>
+    <value>禁用</value>
   </data>
   <data name="Bypass" xml:space="preserve">
     <value>旁路</value>
@@ -1012,7 +1012,7 @@
     <value>被锁定的用户</value>
   </data>
   <data name="Logging" xml:space="preserve">
-    <value>日志</value>
+    <value>登陆</value>
   </data>
   <data name="Notifications" xml:space="preserve">
     <value>通知</value>
