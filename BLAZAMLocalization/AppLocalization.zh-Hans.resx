@@ -181,7 +181,7 @@
     <value>管理员密码</value>
   </data>
   <data name="All" xml:space="preserve">
-    <value>都</value>
+    <value>全部</value>
   </data>
   <data name="Allow" xml:space="preserve">
     <value>允许</value>
@@ -319,31 +319,31 @@
     <value>复制模板</value>
   </data>
   <data name="CPU" xml:space="preserve">
-    <value>中央处理器</value>
+    <value>CPU</value>
   </data>
   <data name="CPU Chart" xml:space="preserve">
     <value>CPU 图表</value>
   </data>
   <data name="Create" xml:space="preserve">
-    <value>创造</value>
+    <value>新建</value>
   </data>
   <data name="Create Access Level" xml:space="preserve">
     <value>创建访问级别</value>
   </data>
   <data name="Create Group" xml:space="preserve">
-    <value>创建组</value>
+    <value>新建组</value>
   </data>
   <data name="Create New Delegation Target" xml:space="preserve">
     <value>创建新的委派目标</value>
   </data>
   <data name="Create OU" xml:space="preserve">
-    <value>创建 OU</value>
+    <value>新建 OU</value>
   </data>
   <data name="Create User" xml:space="preserve">
-    <value>创建用户</value>
+    <value>新建用户</value>
   </data>
   <data name="Created" xml:space="preserve">
-    <value>创建</value>
+    <value>已创建</value>
   </data>
   <data name="Current OU" xml:space="preserve">
     <value>当前 OU</value>
@@ -370,7 +370,7 @@
     <value>数据库类型</value>
   </data>
   <data name="Delegates" xml:space="preserve">
-    <value>代表</value>
+    <value>授权</value>
   </data>
   <data name="Delete" xml:space="preserve">
     <value>删除</value>
@@ -391,7 +391,7 @@
     <value>描述</value>
   </data>
   <data name="Details" xml:space="preserve">
-    <value>详</value>
+    <value>详细信息</value>
   </data>
   <data name="Discard Changes" xml:space="preserve">
     <value>放弃更改</value>
@@ -646,7 +646,7 @@
     <value>组织单位</value>
   </data>
   <data name="OU" xml:space="preserve">
-    <value>或</value>
+    <value>OU</value>
   </data>
   <data name="Pass Change" xml:space="preserve">
     <value>通行证变更</value>
@@ -886,7 +886,7 @@
     <value>未知委托</value>
   </data>
   <data name="Unlock" xml:space="preserve">
-    <value>开锁</value>
+    <value>解锁</value>
   </data>
   <data name="Up to date" xml:space="preserve">
     <value>最新的</value>
@@ -931,10 +931,10 @@
     <value>使用 SMTP 身份验证</value>
   </data>
   <data name="Use SSL" xml:space="preserve">
-    <value>使用安全识别系统</value>
+    <value>使用SSL加密</value>
   </data>
   <data name="Use TLS" xml:space="preserve">
-    <value>使用红绿灯</value>
+    <value>使用TLS加密</value>
   </data>
   <data name="User" xml:space="preserve">
     <value>用户</value>
@@ -1000,7 +1000,7 @@
     <value>Duo 无法访问行为</value>
   </data>
   <data name="Favorites" xml:space="preserve">
-    <value>收藏 夹</value>
+    <value>收藏夹</value>
   </data>
   <data name="Installation Id" xml:space="preserve">
     <value>安装 ID</value>
@@ -1012,7 +1012,7 @@
     <value>被锁定的用户</value>
   </data>
   <data name="Logging" xml:space="preserve">
-    <value>伐木</value>
+    <value>日志</value>
   </data>
   <data name="Notifications" xml:space="preserve">
     <value>通知</value>
@@ -1096,7 +1096,7 @@
     <value>有效权限</value>
   </data>
   <data name="Enable" xml:space="preserve">
-    <value>使</value>
+    <value>启用</value>
   </data>
   <data name="Error Message" xml:space="preserve">
     <value>错误信息</value>
