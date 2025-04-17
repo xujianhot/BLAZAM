@@ -154,7 +154,7 @@
     <value>活动目录设置</value>
   </data>
   <data name="Add" xml:space="preserve">
-    <value>加</value>
+    <value>增加</value>
   </data>
   <data name="Add Members" xml:space="preserve">
     <value>添加成员</value>
